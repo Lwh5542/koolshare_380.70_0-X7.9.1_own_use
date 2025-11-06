@@ -1,0 +1,194 @@
+jQuery0000000000000000000000_0000000000000({
+    "apps": [
+        {
+            "build_date": "2018-04-06_16:12:15",
+            "description": "自动部署SSL证书",
+            "home_url": "Module_acme.asp",
+            "md5": "e70ca86a5673a44ce73b4d4c0a1f139a",
+            "module": "acme",
+            "name": "acme",
+            "tar_url": "acme/acme.tar.gz",
+            "title": "Lets Encrypt",
+            "version": "3.0"
+        },
+        {
+            "build_date": "2016-09-27_18:43:33",
+            "description": "阿里云解析自动更新IP",
+            "home_url": "Module_aliddns.asp",
+            "md5": "5e27d1d0c0c233b157d51611d8eaa8e4",
+            "module": "aliddns",
+            "name": "aliddns",
+            "tar_url": "aliddns/aliddns.tar.gz",
+            "title": "aliddns",
+            "version": "1.2"
+        },
+        {
+            "build_date": "2017-09-10_23:56:38",
+            "description": "加速apple服务",
+            "home_url": "Module_appledns.asp",
+            "md5": "6c7b670ef9451d3c1cb13e1e47b321ba",
+            "name": "appledns",
+            "tar_url": "appledns/appledns.tar.gz",
+            "title": "AppleDNS",
+            "version": "0.2"
+        },
+        {
+            "description": "linux下载利器",
+            "home_url": "Module_aria2.asp",
+            "md5": "bcac9f070aa2440ccb17f2407d3ed2de",
+            "module": "aria2",
+            "name": "aria2",
+            "tar_url": "aria2/aria2.tar.gz",
+            "title": "Aria2",
+            "version": "2.4"
+        },
+        {
+            "description": "使用CloudXNS的ddns服务。",
+            "home_url": "Module_cloudxns.asp",
+            "md5": "c37cebb075e2ff610c840f6a14a272e5",
+            "module": "cloudxns",
+            "name": "cloudxns",
+            "tar_url": "cloudxns/cloudxns.tar.gz",
+            "title": "CloudXNS DDNS",
+            "version": "0.0.5"
+        },
+        {
+            "build_date": "2020-01-03_14:38:36",
+            "description": "使用Dnspod的ddns服务",
+            "home_url": "Module_ddnspod.asp",
+            "md5": "41e7334f0e30ddca4b7495931199cfef",
+            "name": "ddnspod",
+            "tar_url": "ddnspod/ddnspod.tar.gz",
+            "title": "DDnspod",
+            "version": "0.1.7"
+        },
+        {
+            "description": "koolshare小宝开发的基于http2的远程控制，仅支持远程管理路由器+nas+windows远程桌面。",
+            "home_url": "Module_ddnsto.asp",
+            "md5": "c085ae62f547e9a7101d4e44b02be808",
+            "module": "ddnsto",
+            "name": "ddnsto",
+            "tar_url": "ddnsto/ddnsto.tar.gz",
+            "title": "DDNSTO远程控制",
+            "version": "3.0.0"
+        },
+        {
+            "description": "内网穿透利器，谁用谁知道。",
+            "home_url": "Module_frpc.asp",
+            "md5": "84d2cd364f3fe5596d82345a5dfc9092",
+            "module": "frpc",
+            "name": "frpc",
+            "tar_url": "frpc/frpc.tar.gz",
+            "title": "frpc穿透",
+            "version": "2.1.15"
+        },
+        {
+            "description": "内网穿透利器，谁用谁知道。",
+            "home_url": "Module_frps.asp",
+            "md5": "78b638be6fcf4a0c396042068f655699",
+            "module": "frps",
+            "name": "frps",
+            "tar_url": "frps/frps.tar.gz",
+            "title": "frps穿透服务器",
+            "version": "1.4.16"
+        },
+        {
+            "build_date": "2017-05-03_19:15:58",
+            "description": "godaddy ddns！",
+            "home_url": "Module_gdddns.asp",
+            "md5": "ce285ceb9852ac6ec907539742f4714a",
+            "module": "gdddns",
+            "name": "gdddns",
+            "tar_url": "gdddns/gdddns.tar.gz",
+            "title": "gdddns",
+            "version": "1.0.1"
+        },
+        {
+            "description": "易有云2 （LinkEase） 手机相片自动备份，远程管文件，看视频！",
+            "home_url": "Module_linkease.asp",
+            "md5": "af992e1c7a132ddffa5e7f6898559e96",
+            "module": "linkease",
+            "name": "linkease",
+            "tar_url": "linkease/linkease.tar.gz",
+            "title": "易有云2.0",
+            "version": "2.16.9"
+        },
+        {
+            "build_date": "2017-09-11_00:00:09",
+            "description": "让局域网控制能简单",
+            "home_url": "",
+            "md5": "077be5b7a1b6d41d81ae55bec6c1d07a",
+            "name": "phddns",
+            "tar_url": "phddns/phddns.tar.gz",
+            "title": "花生壳内网版",
+            "version": "0.2"
+        },
+        {
+            "build_date": "2018-04-09_14:02:15",
+            "description": "这是一只自动帮你签到的dog",
+            "home_url": "Module_qiandao.asp",
+            "md5": "293aba9ec24aadaa4cb2a279a09ab662",
+            "module": "qiandao",
+            "name": "qiandao",
+            "tar_url": "qiandao/qiandao.tar.gz",
+            "title": "签到dog",
+            "version": "1.4"
+        },
+        {
+            "description": "从路由器推送状态及通知的工具。",
+            "home_url": "Module_serverchan.asp",
+            "md5": "88ee7563a248daf8451f72a88d170c11",
+            "module": "serverchan",
+            "name": "serverchan",
+            "tar_url": "serverchan/serverchan.tar.gz",
+            "title": "serverChan微信推送",
+            "version": "0.1.11"
+        },
+        {
+            "build_date": "2018-09-12_20:15:49",
+            "description": "超强的SSH网页客户端~",
+            "home_url": "Module_shellinabox.asp",
+            "md5": "c0bcf36273926e7de6705995e57f409a",
+            "name": "shellinabox",
+            "tar_url": "shellinabox/shellinabox.tar.gz",
+            "title": "shellinabox",
+            "version": "2.0"
+        },
+        {
+            "build_date": "2016-11-08_08:10:02",
+            "description": "SoftEtherVPN Server version 4.29 build 9680",
+            "home_url": "Module_softether.asp",
+            "md5": "6ab49dd1a6ce811480b8c6e0e51a9db6",
+            "module": "softether",
+            "name": "softether",
+            "tar_url": "softether/softether.tar.gz",
+            "title": "SoftEtherVPN_Server",
+            "version": "1.6"
+        },
+        {
+            "build_date": "2017-09-11_00:04:49",
+            "description": "老板，来一斤虚拟内存~",
+            "home_url": "Module_swap.asp",
+            "md5": "e817df4de63de61ac948928dd5db53a8",
+            "name": "swap",
+            "tar_url": "swap/swap.tar.gz",
+            "title": "虚拟内存",
+            "version": "2.2"
+        },
+        {
+            "build_date": "2016-11-24_20:56:46",
+            "description": "webshell come back",
+            "home_url": "Module_webshell.asp",
+            "md5": "021bfdd32da2c328a34f01d0642aacca",
+            "module": "webshell",
+            "name": "webshell",
+            "tar_url": "webshell/webshell.tar.gz",
+            "title": "webshell",
+            "version": "1.2"
+        }
+    ],
+    "home_url": "https://raw.githubusercontent.com/koolshare/koolshare.github.io/master",
+    "md5": "0820eb9753bc866d4650dfe9cc78186e",
+    "tar_url": "softcenter/softcenter.tar.gz",
+    "version": "1.4.8"
+});
