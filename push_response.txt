@@ -1,0 +1,12 @@
+jQuery0000000000000000000000_0000000000000({
+"title":"<em>梅林改版固件&nbsp;-&nbsp;软件中心</em>",
+"content1":"<font color='#1E90FF'>交流反馈:&nbsp;&nbsp;</font>\
+<a href='https://github.com/koolshare/koolshare.github.io' target='_blank'><em>1.软件中心GitHub项目</em></a>&nbsp;&nbsp;&nbsp;&nbsp;\
+<a href='https://t.me/xbchat' target='_blank'><em>2.加入telegram群</em></a>&nbsp;&nbsp;&nbsp;&nbsp;\
+<a href='http://shang.qq.com/wpa/qunwpa?idkey=f475468129ba8019245425559b5df5bdad7d7201ac7780417dd0218bbb4e1322' target='_blank'><em>3.加入QQ群</em></a>&nbsp;&nbsp;&nbsp;&nbsp;\
+<a href='http://koolshare.cn/forum-98-1.html' target='_blank'><em>4.Koolshare论坛插件版块</em></a>",
+"content2":"📌【20240731】华硕RT-BE88U WiFi7路由器官改固件102_33921_alpha_2.0已发，现在可以在<a href='https://ifdian.net/a/sadog?tab=shop' target='_blank'><b>爱发电平台赞助获取</b></a>",
+"content3":"📢【20240906】梅林koolcenter改版固件发布！总计覆盖23款华硕机型：<a href='https://fw.koolcenter.com/KoolCenter_Merlin_New_Gen_388/' target='_blank'><b>🆓免费获取388.6_2</b></a> | <a href='https://ifdian.net/a/sadog?tab=shop' target='_blank'><b>🧧赞助获取388.7_0</b></a>",
+"content4":"<em>📺</em> ChatGPT Plus、Netflix、Disney+、Spotify、YouTube等会员账号合租，优惠码: <i>koolcenter</i> 享95折优惠，<a href='https://nf.video/2m9pJ' target='_blank'>🛒<em>点此购买</em>🛒</a>"
+}
+);
